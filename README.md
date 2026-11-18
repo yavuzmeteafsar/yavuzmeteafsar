@@ -14,14 +14,14 @@ Computer Engineering student at İzmir University of Economics (3rd year), focus
 
 ## 🤝 Open Source Contributions
 
-- **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)**: implemented an opt-in "Dim the picture" mode for external displays over DDC ([#3837](https://github.com/vorssaint/vorssaint-utils/pull/3837), merged)
-- **[cobanov/instagram](https://github.com/cobanov/instagram)**: [Add Chrome extension wrapper](https://github.com/cobanov/instagram/pull/6), merged; added as a contributor
 - **[Filee](https://github.com/KnifeLemon/Filee)**: regular contributions to the cross-platform conversion engine behind Molt, e.g. JSON event streaming for the CLI
+- **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)**: implemented an opt-in "Dim the picture" mode for external displays over DDC ([#3837](https://github.com/vorssaint/vorssaint-utils/pull/3837), merged)
 - **[IEUStudia](https://github.com/mirzaisi/IEUStudia)**: study app for IEU students
+- **[cobanov/instagram](https://github.com/cobanov/instagram)**: [Add Chrome extension wrapper](https://github.com/cobanov/instagram/pull/6), merged; added as a contributor
 
 ## 💼 Experience
 
-**AI Intern @ Teknology House** (Adana Teknopark) · Summer 2026  
+**AI Intern @ Teknology House** · Summer 2026  
 Computer vision: object detection and segmentation with YOLO.
 
 ## 🛠️ Tech Stack

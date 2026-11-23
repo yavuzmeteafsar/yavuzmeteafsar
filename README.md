@@ -7,6 +7,7 @@ Computer Engineering student at İzmir University of Economics (3rd year), focus
 | Project | Description |
 |---|---|
 | [**Molt**](https://github.com/yavuzmeteafsar/molt-mac) | Native macOS file converter built with Swift/AppKit, powered by the Filee engine. Finder "Convert with Molt" action, TR/EN UI, Apple Silicon & Intel DMGs released via GitHub Actions. |
+| [**Popup Arcade**](https://github.com/yavuzmeteafsar/popup-arcade) | Pixel-art mini game arcade that lives in a Chrome popup: Hopproo, Polyfall and Flagfield, with a new game every update. Manifest V3, published on the [Chrome Web Store](https://chromewebstore.google.com/detail/popup-arcade/eoaibbkajcpedainbccbnfngjofhlapk). |
 | [**Self-Hosted WireGuard VPN**](https://github.com/yavuzmeteafsar/self-hosted-wireguard-dashboard) | Personal VPN on Oracle Cloud: wg-easy in Docker, token-protected Flask API behind Caddy HTTPS, web dashboard and a Chrome extension for server status. |
 | [**Lectoprint**](https://github.com/yavuzmeteafsar/lectoprint) | Claude skill that turns lecture slides into exam-ready study PDFs with a Python/ReportLab pipeline: full notes, quick review or question bank, in English, Turkish or hybrid. |
 | [**Social Media Downloader**](https://github.com/yavuzmeteafsar/social-media-downloader) | Lightweight Manifest V3 Chrome extension for downloading Instagram stories and TikTok videos. |
